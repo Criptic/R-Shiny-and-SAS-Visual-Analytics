@@ -1,15 +1,5 @@
-#RStudio{
-  width:400px;
-  height:400px;
-  margin:20px;
-}
-
-#RStudio:hover{
-  cursor: pointer;
-}
-
 #container{
- padding: 20px;
- margin:20px;
- text-align: center;
+  padding: 20px;
+  margin:20px;
+  text-align: center;
 }

@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyServer(function(input, output, session) {
-  
+  # This function is called by JavaScript (wwww/ddc.js)
   observeEvent(input$data, {
     if (!is.null(input$data)) {
       num_of_rows <- input$data$rowCount
