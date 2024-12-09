@@ -1,7 +1,7 @@
 # R Shiny and SAS Visual Analytics
 In this example I showcase how you can integrate an R Shiny application with SAS Visual Analytics (VA). This enables us to send data with full access rights management and row level security enabled to our R Shiny application and then build out our R Shiny dashboard as you want.
 
-See this repository in action in this [YouTube video]().
+See this repository in action in this [YouTube video](https://youtu.be/C9fiHHDETrA).
 
 ## Setup in SAS Viya
 
